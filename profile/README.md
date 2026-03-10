@@ -7,17 +7,29 @@
 
 <br>
 
-We build low-level networking systems that make unreliable links behave like reliable ones — without adding latency, without TCP retransmits, and without compromising on encryption.
+We build networking systems that make unreliable links behave like reliable ones — without adding latency, without TCP retransmits, and without compromising on encryption.
+
+**Entrouter** is our intelligent routing platform — optimised path selection, real-time network telemetry, and resilient packet delivery across global infrastructure.
+
+**Entrouter Line** is the open-source relay engine that powers it.
 
 <br>
 
 ---
 
-### 🔬 Open Source
+### Open Source
 
 | Project | Description | Status |
 |---------|-------------|--------|
-| **[entrouter-line](https://github.com/Entrouter/entrouter-line)** | Zero-loss cross-region packet relay with adaptive FEC, encrypted tunnels, and mesh routing | [![Build](https://github.com/Entrouter/entrouter-line/actions/workflows/ci.yml/badge.svg)](https://github.com/Entrouter/entrouter-line/actions/workflows/ci.yml) |
+| **[entrouter-line](https://github.com/Entrouter/entrouter-line)** | Zero-loss packet relay — adaptive FEC, encrypted UDP tunnels, latency-mesh routing, QUIC 0-RTT edge | [![Build](https://github.com/Entrouter/entrouter-line/actions/workflows/ci.yml/badge.svg)](https://github.com/Entrouter/entrouter-line/actions/workflows/ci.yml) |
+
+<br>
+
+### What We Build
+
+**Entrouter** — Intelligent routing platform for latency-sensitive traffic. Finds the fastest path, not the cheapest. Adapts in real-time as network conditions change.
+
+**Entrouter Line** — The relay layer. Forward Error Correction absorbs packet loss before it reaches your application. ChaCha20-Poly1305 encryption on every hop. Dijkstra mesh routing on live latency data.
 
 <br>
 
