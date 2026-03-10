@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Entrouter/.github/main/profile/logo.png" alt="Entrouter" width="280">
+<img src="https://raw.githubusercontent.com/Entrouter/.github/main/profile/logo.png" alt="Entrouter" width="400">
 
 <br><br>
 
