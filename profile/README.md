@@ -45,6 +45,6 @@ We build networking systems that make unreliable links behave like reliable ones
 
 ---
 
-<sub>Melbourne, Australia · MIT Licensed</sub>
+<sub>Australia · MIT Licensed</sub>
 
 </div>
